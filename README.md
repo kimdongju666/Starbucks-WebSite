@@ -7,4 +7,4 @@
 
 [DEMO+signin](https://elaborate-cranachan-c2a10e.netlify.app/signin/)
 
-![Starbucks](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/main_screenshot.jpg)
+![Starbucks](file:///C:/Users/kimdo/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%9D%B4%EB%A0%A5%EC%84%9C/starbucks.PNG)
